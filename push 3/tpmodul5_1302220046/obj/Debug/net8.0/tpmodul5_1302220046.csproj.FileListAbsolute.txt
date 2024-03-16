@@ -12,4 +12,7 @@ C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod5\tpmodul5_130
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod5\tpmodul5_1302220046\tpmodul5_1302220046\obj\Debug\net8.0\tpmodul5_1302220046.pdb
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod5\tpmodul5_1302220046\tpmodul5_1302220046\obj\Debug\net8.0\tpmodul5_1302220046.genruntimeconfig.cache
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod5\tpmodul5_1302220046\tpmodul5_1302220046\obj\Debug\net8.0\ref\tpmodul5_1302220046.dll
+<<<<<<< HEAD
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod5\tpmodul5_1302220046\tpmodul5_1302220046\obj\Debug\net8.0\tpmodul5_1302220046.sourcelink.json
+=======
+>>>>>>> generic-class
